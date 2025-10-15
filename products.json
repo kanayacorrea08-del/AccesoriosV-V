@@ -1,0 +1,1457 @@
+[
+  {
+    "title": "ANILLO 2 TREBOL BLANCO",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-ANILLO-2-TRE",
+    "img": "anillo-2-trebol-blanco.jpeg",
+    "tags": [
+      "anillos"
+    ]
+  },
+  {
+    "title": "ANILLO CORAZON CRISTALES RODIO",
+    "price": "16000",
+    "description": "",
+    "sku": "SKU-ANILLO-CORAZ",
+    "img": "anillo-corazon-cristales-rodio.jpeg",
+    "tags": [
+      "anillos",
+      "corazon"
+    ]
+  },
+  {
+    "title": "ANILLO ELEGANT FLORES",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-ANILLO-ELEGA",
+    "img": "anillo-elegant-flores.jpeg",
+    "tags": [
+      "anillos",
+      "flor"
+    ]
+  },
+  {
+    "title": "ANILLO HOJAS",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-ANILLO-HOJAS",
+    "img": "anillo-hojas.jpeg",
+    "tags": [
+      "anillos"
+    ]
+  },
+  {
+    "title": "ANILLO TREBOL NEGRO",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-ANILLO-TREBO",
+    "img": "anillo-trebol-negro.jpeg",
+    "tags": [
+      "anillos"
+    ]
+  },
+  {
+    "title": "ANILLOS AJUSTABLES Y GIRATORIO RODIO",
+    "price": "16000",
+    "description": "C/U",
+    "sku": "SKU-ANILLOS-AJUS",
+    "img": "anillos-ajustables-y-giratorio-rodio.jpeg",
+    "tags": [
+      "anillos"
+    ]
+  },
+  {
+    "title": "ANILLOS SET 1",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-ANILLOS-SET-",
+    "img": "anillos-set-1.jpeg",
+    "tags": [
+      "anillos",
+      "sets"
+    ]
+  },
+  {
+    "title": "ANILLOS SET 2",
+    "price": "9000",
+    "description": "",
+    "sku": "SKU-ANILLOS-SET-",
+    "img": "anillos-set-2.jpeg",
+    "tags": [
+      "anillos",
+      "sets"
+    ]
+  },
+  {
+    "title": "ANILLOS SET 3",
+    "price": "9000",
+    "description": "",
+    "sku": "SKU-ANILLOS-SET-",
+    "img": "anillos-set-3.jpeg",
+    "tags": [
+      "anillos",
+      "sets"
+    ]
+  },
+  {
+    "title": "ANILLOS SET 4",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-ANILLOS-SET-",
+    "img": "anillos-set-4.jpeg",
+    "tags": [
+      "anillos",
+      "sets"
+    ]
+  },
+  {
+    "title": "ANILLOS SET 5",
+    "price": "9000",
+    "description": "",
+    "sku": "SKU-ANILLOS-SET-",
+    "img": "anillos-set-5.jpeg",
+    "tags": [
+      "anillos",
+      "sets"
+    ]
+  },
+  {
+    "title": "ANILLOS SET 6",
+    "price": "9000",
+    "description": "",
+    "sku": "SKU-ANILLOS-SET-",
+    "img": "anillos-set-6.jpeg",
+    "tags": [
+      "anillos",
+      "sets"
+    ]
+  },
+  {
+    "title": "ANILLOS SET 7",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-ANILLOS-SET-",
+    "img": "anillos-set-7.jpg",
+    "tags": [
+      "anillos",
+      "sets"
+    ]
+  },
+  {
+    "title": "ARETES PERLAS CANDONGAS FLORES  AZUL",
+    "price": "22000",
+    "description": "",
+    "sku": "SKU-ARETES-PERLA",
+    "img": "aretes-perlas-candongas-flores-azul.jpeg",
+    "tags": [
+      "aretes",
+      "flor",
+      "perlas"
+    ]
+  },
+  {
+    "title": "ARETES PERLAS CANDONGAS FLORES NEGRO",
+    "price": "22000",
+    "description": "",
+    "sku": "SKU-ARETES-PERLA",
+    "img": "aretes-perlas-candongas-flores-negro.jpeg",
+    "tags": [
+      "aretes",
+      "flor",
+      "perlas"
+    ]
+  },
+  {
+    "title": "ARETES PERLAS CANDONGAS FLORES ROJO",
+    "price": "22000",
+    "description": "",
+    "sku": "SKU-ARETES-PERLA",
+    "img": "aretes-perlas-candongas-flores-rojo.jpeg",
+    "tags": [
+      "aretes",
+      "flor",
+      "perlas"
+    ]
+  },
+  {
+    "title": "ARETES  PERLAS CANDONGAS FLORES ROSA",
+    "price": "22000",
+    "description": "",
+    "sku": "SKU-ARETES-PERLA",
+    "img": "aretes-perlas-candongas-flores-rosa.jpeg",
+    "tags": [
+      "aretes",
+      "flor",
+      "perlas"
+    ]
+  },
+  {
+    "title": "ARETES PERLAS CANDONGAS FLORES VERDE CLARO",
+    "price": "22000",
+    "description": "",
+    "sku": "SKU-ARETES-PERLA",
+    "img": "aretes-perlas-candongas-flores-verde-claro.jpeg",
+    "tags": [
+      "aretes",
+      "flor",
+      "perlas"
+    ]
+  },
+  {
+    "title": "ARETES CANDONGAS 3 COLORES RODIO",
+    "price": "23000",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-3-colores-rodio.jpeg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "Aretes Candongas Balines 3 Colores Rodinada",
+    "price": "$ —",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-balines-3-colores-rodinada_.jpg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "ARETES CANDONGAS CRISTALES COLORIDOS ELEGANT",
+    "price": "23000",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-cristales-coloridos-elegant.jpeg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "ARETES CANDONGAS CRISTALES NEGROS",
+    "price": "20000",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-cristales-negros.jpeg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "ARETES CANDONGAS DORADA ENTRELAZADA PERLAS",
+    "price": "18000",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-dorada-entrelazada-perlas.jpeg",
+    "tags": [
+      "aretes",
+      "perlas"
+    ]
+  },
+  {
+    "title": "ARETES CANDONGAS DORADAS LISAS",
+    "price": "15000",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-doradas-lisas.jpeg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "ARETES CANDONGAS DORADAS TRENZADAS GRANDE",
+    "price": "15000",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-doradas-trenzadas-grande.jpeg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "ARETES CANDONGAS DORADAS TRENZADAS PEQUEÑA",
+    "price": "14000",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-doradas-trenzadas-pequena.jpeg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "ARETES CANDONGAS EN ACERO INOXIDABLE HIPOALERGENICAS",
+    "price": "15000",
+    "description": "PRECIO CADA UNA",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-en-acero-inoxidable-hipoalergenicas.jpeg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "ARETES CANDONGAS ENTRELAZADAS GOLDEN",
+    "price": "20000",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-entrelazadas-golden.jpeg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "ARETES CANDONGAS GRANDE PERLA",
+    "price": "18000",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-grande-perla.jpeg",
+    "tags": [
+      "aretes",
+      "perlas"
+    ]
+  },
+  {
+    "title": "ARETES CANDONGAS LISAS UNA PERLA",
+    "price": "15000",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-lisas-una-perla.jpeg",
+    "tags": [
+      "aretes",
+      "perlas"
+    ]
+  },
+  {
+    "title": "ARETES CANDONGAS PEQUEÑO PERLAS",
+    "price": "16000",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-pequeno-perlas.jpeg",
+    "tags": [
+      "aretes",
+      "perlas"
+    ]
+  },
+  {
+    "title": "Aretes Candongas Piedras Multicolores 2",
+    "price": "$ —",
+    "description": "",
+    "sku": "SKU-ARETES-CANDO",
+    "img": "aretes-candongas-piedras-multicolores-2.jpeg",
+    "tags": [
+      "aretes",
+      "multicolor"
+    ]
+  },
+  {
+    "title": "ARETES CORAZON CRISTAL ROJO",
+    "price": "7000",
+    "description": "",
+    "sku": "SKU-ARETES-CORAZ",
+    "img": "aretes-corazon-cristal-rojo.jpeg",
+    "tags": [
+      "aretes",
+      "corazon"
+    ]
+  },
+  {
+    "title": "ARETES CRISTALES PEQUEÑA RODINADO",
+    "price": "13000",
+    "description": "",
+    "sku": "SKU-ARETES-CRIST",
+    "img": "aretes-cristales-pequena-rodinado.jpg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "ARETES DORADO ELEGANTES PEQUEÑOS",
+    "price": "17000",
+    "description": "Candongas Acero Inoxidable chapados en oro de 18K⁠",
+    "sku": "SKU-ARETES-DORAD",
+    "img": "aretes-dorado-elegantes-pequenos.jpeg",
+    "tags": [
+      "aretes",
+      "dorado"
+    ]
+  },
+  {
+    "title": "ARETES ENTRELAZADOS PERLAS RODINADO",
+    "price": "20000",
+    "description": "",
+    "sku": "SKU-ARETES-ENTRE",
+    "img": "aretes-entrelazados-perlas-rodinado.jpeg",
+    "tags": [
+      "aretes",
+      "perlas"
+    ]
+  },
+  {
+    "title": "ARETES FLORES MULTICOLORES",
+    "price": "22000",
+    "description": "",
+    "sku": "SKU-ARETES-FLORE",
+    "img": "aretes-flores-multicolores.jpeg",
+    "tags": [
+      "aretes",
+      "flor",
+      "multicolor"
+    ]
+  },
+  {
+    "title": "ARETES NEGROS CON BORLA METALICA",
+    "price": "12000",
+    "description": "",
+    "sku": "SKU-ARETES-NEGRO",
+    "img": "aretes-negros-con-borla-metalica.jpeg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "ARETES PEQUEÑOS CORAZON",
+    "price": "75000",
+    "description": "",
+    "sku": "SKU-ARETES-PEQUE",
+    "img": "aretes-pequenos-corazon.jpeg",
+    "tags": [
+      "aretes",
+      "corazon"
+    ]
+  },
+  {
+    "title": "ARETES PEQUEÑOS CRUZ",
+    "price": "7500",
+    "description": "",
+    "sku": "SKU-ARETES-PEQUE",
+    "img": "aretes-pequenos-cruz.jpeg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "ARETES TIPO CANDONGAS DORADA RODIO",
+    "price": "19000",
+    "description": "",
+    "sku": "SKU-ARETES-TIPO-",
+    "img": "aretes-tipo-candongas-dorada-rodio.jpeg",
+    "tags": [
+      "aretes"
+    ]
+  },
+  {
+    "title": "COLLAR CINCO TREBOL ROSA NACARADO",
+    "price": "18000",
+    "description": "",
+    "sku": "SKU-COLLAR-CINCO",
+    "img": "collar-cinco-trebol-rosa-nacarado.jpeg",
+    "tags": [
+      "collares"
+    ]
+  },
+  {
+    "title": "COLLAR CORAZON CON PERLA INCRUSTADA",
+    "price": "18000",
+    "description": "",
+    "sku": "SKU-COLLAR-CORAZ",
+    "img": "collar-corazon-con-perla-incrustada.jpeg",
+    "tags": [
+      "collares",
+      "corazon",
+      "perlas"
+    ]
+  },
+  {
+    "title": "COLLAR CORAZON ROJO CON CRISTALES",
+    "price": "17000",
+    "description": "",
+    "sku": "SKU-COLLAR-CORAZ",
+    "img": "collar-corazon-rojo-con-cristales.jpeg",
+    "tags": [
+      "collares",
+      "corazon"
+    ]
+  },
+  {
+    "title": "COLLAR CORAZON VIRGEN",
+    "price": "17000",
+    "description": "",
+    "sku": "SKU-COLLAR-CORAZ",
+    "img": "collar-corazon-virgen.jpeg",
+    "tags": [
+      "collares",
+      "corazon"
+    ]
+  },
+  {
+    "title": "COLLAR DOS EN UNO PERLA CORAZON",
+    "price": "18000",
+    "description": "",
+    "sku": "SKU-COLLAR-DOS-E",
+    "img": "collar-dos-en-uno-perla-corazon.jpeg",
+    "tags": [
+      "collares",
+      "corazon",
+      "perlas"
+    ]
+  },
+  {
+    "title": "COLLAR FLORES PETALOS CRISTAL",
+    "price": "18000",
+    "description": "",
+    "sku": "SKU-COLLAR-FLORE",
+    "img": "collar-flores-petalos-cristal.jpeg",
+    "tags": [
+      "collares",
+      "flor"
+    ]
+  },
+  {
+    "title": "COLLAR OSITO CRISTALES",
+    "price": "17000",
+    "description": "",
+    "sku": "SKU-COLLAR-OSITO",
+    "img": "collar-osito-cristales.jpeg",
+    "tags": [
+      "collares"
+    ]
+  },
+  {
+    "title": "COLLAR PERLAS CON COLGANTE CORAZON",
+    "price": "14000",
+    "description": "",
+    "sku": "SKU-COLLAR-PERLA",
+    "img": "collar-perlas-con-colgante-corazon.jpeg",
+    "tags": [
+      "collares",
+      "corazon",
+      "perlas"
+    ]
+  },
+  {
+    "title": "COLLAR TRENZADA DORADA",
+    "price": "22000",
+    "description": "45 CM LARGO",
+    "sku": "SKU-COLLAR-TRENZ",
+    "img": "collar-trenzada-dorada.jpeg",
+    "tags": [
+      "collares"
+    ]
+  },
+  {
+    "title": "COLLAR TRES EN UNO CRUZ",
+    "price": "11000",
+    "description": "",
+    "sku": "SKU-COLLAR-TRES-",
+    "img": "collar-tres-en-uno-cruz.jpeg",
+    "tags": [
+      "collares"
+    ]
+  },
+  {
+    "title": "COLLAR TRES EN UNO",
+    "price": "18500",
+    "description": "",
+    "sku": "SKU-COLLAR-TRES-",
+    "img": "collar-tres-en-uno.jpeg",
+    "tags": [
+      "collares"
+    ]
+  },
+  {
+    "title": "COLLAR UN TREBOL BLANCO RODINADO",
+    "price": "16000",
+    "description": "",
+    "sku": "SKU-COLLAR-UN-TR",
+    "img": "collar-un-trebol-blanco-rodinado.jpeg",
+    "tags": [
+      "collares"
+    ]
+  },
+  {
+    "title": "COLLAR UN TREBOL NEGRO RODINADO",
+    "price": "16000",
+    "description": "",
+    "sku": "SKU-COLLAR-UN-TR",
+    "img": "collar-un-trebol-negro-rodinado.jpeg",
+    "tags": [
+      "collares"
+    ]
+  },
+  {
+    "title": "COLLAR UN TREBOL ROJO RODINADO",
+    "price": "16000",
+    "description": "",
+    "sku": "SKU-COLLAR-UN-TR",
+    "img": "collar-un-trebol-rojo-rodinado.jpeg",
+    "tags": [
+      "collares"
+    ]
+  },
+  {
+    "title": "COLLAR UN TREBOL ROSA NACARADO RODINADO",
+    "price": "16000",
+    "description": "",
+    "sku": "SKU-COLLAR-UN-TR",
+    "img": "collar-un-trebol-rosa-nacarado-rodinado.jpeg",
+    "tags": [
+      "collares"
+    ]
+  },
+  {
+    "title": "COLLAR UNISEX CON MEDALLA VIRGEN MARIA",
+    "price": "19000",
+    "description": "",
+    "sku": "SKU-COLLAR-UNISE",
+    "img": "collar-unisex-con-medalla-virgen-maria.jpeg",
+    "tags": [
+      "collares"
+    ]
+  },
+  {
+    "title": "COLLARES VIRGEN MARIA, VIRGEN DE GUADALUPE Y SAGRADO CORAZON DE JESUS",
+    "price": "17000",
+    "description": "",
+    "sku": "SKU-COLLARES-VIR",
+    "img": "collares-virgen-maria-virgen-de-guadalupe-y-sagrado-corazon-de-jesus.jpeg",
+    "tags": [
+      "collares",
+      "corazon"
+    ]
+  },
+  {
+    "title": "Pulser Estilo Pandora Dorada Pink",
+    "price": "$ —",
+    "description": "",
+    "sku": "SKU-PULSER-ESTIL",
+    "img": "pulser-estilo-pandora-dorada-pink.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "PULSERA BUTTERFLY",
+    "price": "9000",
+    "description": "",
+    "sku": "SKU-PULSERA-BUTT",
+    "img": "pulsera-butterfly.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERA CORAZON ROJO",
+    "price": "9000",
+    "description": "",
+    "sku": "SKU-PULSERA-CORA",
+    "img": "pulsera-corazon-rojo.jpeg",
+    "tags": [
+      "pulseras",
+      "corazon"
+    ]
+  },
+  {
+    "title": "PULSERA CRISTAL BLUE Y CORAZON BLUE",
+    "price": "15000",
+    "description": "PRECIO PAR",
+    "sku": "SKU-PULSERA-CRIS",
+    "img": "pulsera-cristal-blue-y-corazon-blue.jpeg",
+    "tags": [
+      "pulseras",
+      "corazon"
+    ]
+  },
+  {
+    "title": "PULSERA DORADA ELEGANT",
+    "price": "13000",
+    "description": "",
+    "sku": "SKU-PULSERA-DORA",
+    "img": "pulsera-dorada-elegant.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERA DORADA PERLAS",
+    "price": "12000",
+    "description": "",
+    "sku": "SKU-PULSERA-DORA",
+    "img": "pulsera-dorada-perlas.jpeg",
+    "tags": [
+      "pulseras",
+      "perlas"
+    ]
+  },
+  {
+    "title": "PULSERA ELASTICA DORADA CRISTALES",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-PULSERA-ELAS",
+    "img": "pulsera-elastica-dorada-cristales.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERA ELASTICA DORADA HOJA",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-PULSERA-ELAS",
+    "img": "pulsera-elastica-dorada-hoja.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERA ELASTICA PERLAS Y CRISTALES",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-PULSERA-ELAS",
+    "img": "pulsera-elastica-perlas-y-cristales.jpeg",
+    "tags": [
+      "pulseras",
+      "perlas"
+    ]
+  },
+  {
+    "title": "PULSERA ELASTICA PERLAS Y ROSAS",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-PULSERA-ELAS",
+    "img": "pulsera-elastica-perlas-y-rosas.jpeg",
+    "tags": [
+      "pulseras",
+      "perlas"
+    ]
+  },
+  {
+    "title": "⁠PULSERA ESTILO PANDORA DORADA PURPLE",
+    "price": "27000",
+    "description": "",
+    "sku": "SKU-PULSERA-ESTI",
+    "img": "pulsera-estilo-pandora-dorada-purple.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "⁠PULSERA ESTILO PANDORA PLATEADA BLUE",
+    "price": "27000",
+    "description": "",
+    "sku": "SKU-PULSERA-ESTI",
+    "img": "pulsera-estilo-pandora-plateada-blue.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERA FLORES ELEGANT",
+    "price": "14000",
+    "description": "",
+    "sku": "SKU-PULSERA-FLOR",
+    "img": "pulsera-flores-elegant.jpeg",
+    "tags": [
+      "pulseras",
+      "flor"
+    ]
+  },
+  {
+    "title": "PULSERA FLORES SHINE",
+    "price": "12000",
+    "description": "ACERO",
+    "sku": "SKU-PULSERA-FLOR",
+    "img": "pulsera-flores-shine.jpeg",
+    "tags": [
+      "pulseras",
+      "flor"
+    ]
+  },
+  {
+    "title": "PULSERA LAZO CRISTAL",
+    "price": "9000",
+    "description": "",
+    "sku": "SKU-PULSERA-LAZO",
+    "img": "pulsera-lazo-cristal.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERA LISA TREBOL BLANCA",
+    "price": "12000",
+    "description": "",
+    "sku": "SKU-PULSERA-LISA",
+    "img": "pulsera-lisa-trebol-blanca.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERA LISA TREBOL ROJO",
+    "price": "12000",
+    "description": "",
+    "sku": "SKU-PULSERA-LISA",
+    "img": "pulsera-lisa-trebol-rojo.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERA LOVE",
+    "price": "7000",
+    "description": "",
+    "sku": "SKU-PULSERA-LOVE",
+    "img": "pulsera-love.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERA MARIPOSAS",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-PULSERA-MARI",
+    "img": "pulsera-mariposas.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERAS PERLAS MARIPOSAS",
+    "price": "7500",
+    "description": "",
+    "sku": "SKU-PULSERA-PERL",
+    "img": "pulsera-perlas-mariposas.jpeg",
+    "tags": [
+      "pulseras",
+      "perlas"
+    ]
+  },
+  {
+    "title": "PULSERA STYLES",
+    "price": "13000",
+    "description": "",
+    "sku": "SKU-PULSERA-STYL",
+    "img": "pulsera-styles.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERA TREBOL BLANCA",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-PULSERA-TREB",
+    "img": "pulsera-trebol-blanca.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERA TREBOL DORADO Y NEGRO",
+    "price": "15000",
+    "description": "",
+    "sku": "SKU-PULSERA-TREB",
+    "img": "pulsera-trebol-dorado-y-negro.jpeg",
+    "tags": [
+      "pulseras",
+      "dorado"
+    ]
+  },
+  {
+    "title": "PULSERA TREBOL ROSA NACARADO",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-PULSERA-TREB",
+    "img": "pulsera-trebol-rosa-nacarado.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERA TRENSA DORADA",
+    "price": "16000",
+    "description": "",
+    "sku": "SKU-PULSERA-TREN",
+    "img": "pulsera-trensa-dorada.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
+    "title": "PULSERAS ELASTICAS PERLAS CORAZON MINIMALISTA",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-PULSERAS-ELA",
+    "img": "pulseras-elasticas-perlas-corazon-minimalista.jpeg",
+    "tags": [
+      "pulseras",
+      "corazon",
+      "perlas"
+    ]
+  },
+  {
+    "title": "SET X2 BRAZALETE Y ANILLO",
+    "price": "25000",
+    "description": "",
+    "sku": "SKU-SET-X2-BRAZA",
+    "img": "set-x2-brazalete-y-anillo.jpeg",
+    "tags": [
+      "anillos",
+      "pulseras",
+      "sets"
+    ]
+  },
+  {
+    "title": "SET X2 COLLAR Y PULSERA TRENZADA DORADA",
+    "price": "30000",
+    "description": "",
+    "sku": "SKU-SET-X2-COLLA",
+    "img": "set-x2-collar-y-pulsera-trenzada-dorada.jpeg",
+    "tags": [
+      "pulseras",
+      "collares",
+      "sets"
+    ]
+  },
+  {
+    "title": "SET X2 CORAZON CORONA RODINADO",
+    "price": "25000",
+    "description": "COLLAR Y ARETES",
+    "sku": "SKU-SET-X2-CORAZ",
+    "img": "set-x2-corazon-corona-rodinado.jpeg",
+    "tags": [
+      "sets",
+      "corazon"
+    ]
+  },
+  {
+    "title": "SET X2 PERLAS ELEGANT RODINADO",
+    "price": "25000",
+    "description": "COLLAR Y ARETES",
+    "sku": "SKU-SET-X2-PERLA",
+    "img": "set-x2-perlas-elegant-rodinado.jpeg",
+    "tags": [
+      "sets",
+      "perlas"
+    ]
+  },
+  {
+    "title": "SET X2 TREBOL BLANCO RODINADO",
+    "price": "25000",
+    "description": "",
+    "sku": "SKU-SET-X2-TREBO",
+    "img": "set-x2-trebol-blanco-rodinado.jpeg",
+    "tags": [
+      "sets"
+    ]
+  },
+  {
+    "title": "SET X2 TREBOL NEGRO RODINADO",
+    "price": "25000",
+    "description": "",
+    "sku": "SKU-SET-X2-TREBO",
+    "img": "set-x2-trebol-negro-rodinado.jpeg",
+    "tags": [
+      "sets"
+    ]
+  },
+  {
+    "title": "SET X2 TREBOL ROJO RODINADO",
+    "price": "25000",
+    "description": "",
+    "sku": "SKU-SET-X2-TREBO",
+    "img": "set-x2-trebol-rojo-rodinado.jpeg",
+    "tags": [
+      "sets"
+    ]
+  },
+  {
+    "title": "SET X2 TREBOL ROSA NACARADO RODINADO",
+    "price": "25000",
+    "description": "",
+    "sku": "SKU-SET-X2-TREBO",
+    "img": "set-x2-trebol-rosa-nacarado-rodinado.jpeg",
+    "tags": [
+      "sets"
+    ]
+  },
+  {
+    "title": "SET X3 CORAZON PERLADO",
+    "price": "23000",
+    "description": "COLLAR ANILLO Y ARETES",
+    "sku": "SKU-SET-X3-CORAZ",
+    "img": "set-x3-corazon-perlado.jpeg",
+    "tags": [
+      "sets",
+      "corazon",
+      "perlas"
+    ]
+  },
+  {
+    "title": "SET X3 DISEÑO PERLA Y FLOR",
+    "price": "35000",
+    "description": "COLLAR, PULSERA Y ARETES",
+    "sku": "SKU-SET-X3-DISEN",
+    "img": "set-x3-diseno-perla-y-flor.jpeg",
+    "tags": [
+      "sets",
+      "flor",
+      "perlas"
+    ]
+  },
+  {
+    "title": "SET X3 ENCANTO FLOR BLANCA",
+    "price": "35000",
+    "description": "COLLAR ARETES Y ANILLO",
+    "sku": "SKU-SET-X3-ENCAN",
+    "img": "set-x3-encanto-flor-blanca.jpeg",
+    "tags": [
+      "sets",
+      "flor"
+    ]
+  },
+  {
+    "title": "SET X3 FLORES CRISTALES ACERO",
+    "price": "45000",
+    "description": "COLLAR, PULSERA Y ARETES",
+    "sku": "SKU-SET-X3-FLORE",
+    "img": "set-x3-flores-cristales-acero.jpeg",
+    "tags": [
+      "sets",
+      "flor"
+    ]
+  },
+  {
+    "title": "SET X3 PERLAS",
+    "price": "25000",
+    "description": "",
+    "sku": "SKU-SET-X3-PERLA",
+    "img": "set-x3-perlas.jpeg",
+    "tags": [
+      "sets",
+      "perlas"
+    ]
+  },
+  {
+    "title": "SET X3 TREBOL ROSA NACARADO",
+    "price": "35000",
+    "description": "COLLAR PULSERA Y ARETES",
+    "sku": "SKU-SET-X3-TREBO",
+    "img": "set-x3-trebol-rosa-nacarado.jpeg",
+    "tags": [
+      "sets"
+    ]
+  },
+  {
+    "title": "SET X3 VINTAGE PERLAS ELEGANTE",
+    "price": "35000",
+    "description": "COLLAR, ARETES Y ANILLO",
+    "sku": "SKU-SET-X3-VINTA",
+    "img": "set-x3-vintage-perlas-elegante.jpeg",
+    "tags": [
+      "sets",
+      "perlas"
+    ]
+  },
+  {
+    "title": "SET X4 COLLAR CINCO TREBOL NEGRO",
+    "price": "35000",
+    "description": "COLLAR PULSERA ANILLO Y ARETES",
+    "sku": "SKU-SET-X4-COLLA",
+    "img": "set-x4-collar-cinco-trebol-negro.jpeg",
+    "tags": [
+      "collares",
+      "sets"
+    ]
+  },
+  {
+    "title": "SET X4 CORAZON ROJO CON CRISTALES",
+    "price": "35000",
+    "description": "",
+    "sku": "SKU-SET-X4-CORAZ",
+    "img": "set-x4-corazon-rojo-con-cristales.jpeg",
+    "tags": [
+      "sets",
+      "corazon"
+    ]
+  },
+  {
+    "title": "SET X4 DORADO ELEGANTE FLOR",
+    "price": "30000",
+    "description": "",
+    "sku": "SKU-SET-X4-DORAD",
+    "img": "set-x4-dorado-elegante-flor.jpeg",
+    "tags": [
+      "sets",
+      "flor",
+      "dorado"
+    ]
+  },
+  {
+    "title": "SET X4 FLOR DORADA ELEGANTE",
+    "price": "45000",
+    "description": "PULSERA, COLLAR, ANILLO, ARETES",
+    "sku": "SKU-SET-X4-FLOR-",
+    "img": "set-x4-flor-dorada-elegante.jpeg",
+    "tags": [
+      "sets",
+      "flor"
+    ]
+  },
+  {
+    "title": "SET X4 TREBOL BLANCO",
+    "price": "30000",
+    "description": "COLLAR PULSERA ANILLO Y ARETES",
+    "sku": "SKU-SET-X4-TREBO",
+    "img": "set-x4-trebol-blanco.jpeg",
+    "tags": [
+      "sets"
+    ]
+  },
+  {
+    "title": "SET X4 TREBOL NEGRO CON DORADO",
+    "price": "45000",
+    "description": "PULSERA, COLLAR, ANILLO, ARETES",
+    "sku": "SKU-SET-X4-TREBO",
+    "img": "set-x4-trebol-negro-con-dorado.jpeg",
+    "tags": [
+      "sets",
+      "dorado"
+    ]
+  },
+  {
+    "title": "SET X4 TREBOL ROJO",
+    "price": "30000",
+    "description": "COLLAR PULSERA ANILLO Y ARETES",
+    "sku": "SKU-SET-X4-TREBO",
+    "img": "set-x4-trebol-rojo.jpeg",
+    "tags": [
+      "sets"
+    ]
+  },
+  {
+    "title": "TOBILLERA CORAZON",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-TOBILLERA-CO",
+    "img": "tobillera-corazon.jpeg",
+    "tags": [
+      "corazon"
+    ]
+  },
+  {
+    "title": "TOBILLERA CUBANA RODIO",
+    "price": "13000",
+    "description": "",
+    "sku": "SKU-TOBILLERA-CU",
+    "img": "tobillera-cubana-rodio.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOBILLERA DIJE PIÑA",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-TOBILLERA-DI",
+    "img": "tobillera-dije-pina.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOBILLERA ESTRELLAS",
+    "price": "9000",
+    "description": "",
+    "sku": "SKU-TOBILLERA-ES",
+    "img": "tobillera-estrellas.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOBILLERA INFINITO Y PERLAS",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-TOBILLERA-IN",
+    "img": "tobillera-infinito-y-perlas.jpeg",
+    "tags": [
+      "perlas"
+    ]
+  },
+  {
+    "title": "TOBILLERA MARIPOSA",
+    "price": "9000",
+    "description": "",
+    "sku": "SKU-TOBILLERA-MA",
+    "img": "tobillera-mariposa.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOBILLERA MARIPOSAS",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-TOBILLERA-MA",
+    "img": "tobillera-mariposas.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOBILLERA PIEDRAS ROSAS RODIO",
+    "price": "14000",
+    "description": "",
+    "sku": "SKU-TOBILLERA-PI",
+    "img": "tobillera-piedras-rosas-rodio.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOBILLERA TREBOL RODIO",
+    "price": "14000",
+    "description": "",
+    "sku": "SKU-TOBILLERA-TR",
+    "img": "tobillera-trebol-rodio.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOBILLERAS VARIADAS",
+    "price": "9000",
+    "description": "",
+    "sku": "SKU-TOBILLERAS-V",
+    "img": "tobilleras-variadas.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOPO BALIN DORADO",
+    "price": "7000",
+    "description": "",
+    "sku": "SKU-TOPO-BALIN-D",
+    "img": "topo-balin-dorado.jpeg",
+    "tags": [
+      "dorado"
+    ]
+  },
+  {
+    "title": "TOPO BLANCO PERLA",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-TOPO-BLANCO-",
+    "img": "topo-blanco-perla.jpeg",
+    "tags": [
+      "perlas"
+    ]
+  },
+  {
+    "title": "TOPO CRISTAL",
+    "price": "7000",
+    "description": "",
+    "sku": "SKU-TOPO-CRISTAL",
+    "img": "topo-cristal.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOPO FLOR ELEGANT",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-TOPO-FLOR-EL",
+    "img": "topo-flor-elegant.jpeg",
+    "tags": [
+      "flor"
+    ]
+  },
+  {
+    "title": "TOPO FLOR PEQUEÑA",
+    "price": "7000",
+    "description": "",
+    "sku": "SKU-TOPO-FLOR-PE",
+    "img": "topo-flor-pequena.jpeg",
+    "tags": [
+      "flor"
+    ]
+  },
+  {
+    "title": "TOPO FLOR PERLAS",
+    "price": "7500",
+    "description": "",
+    "sku": "SKU-TOPO-FLOR-PE",
+    "img": "topo-flor-perlas.jpeg",
+    "tags": [
+      "flor",
+      "perlas"
+    ]
+  },
+  {
+    "title": "TOPO FLOR",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-TOPO-FLOR",
+    "img": "topo-flor.jpeg",
+    "tags": [
+      "flor"
+    ]
+  },
+  {
+    "title": "TOPO GEOMETRICO",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-TOPO-GEOMETR",
+    "img": "topo-geometrico.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOPO HOJA DORADO",
+    "price": "7000",
+    "description": "",
+    "sku": "SKU-TOPO-HOJA-DO",
+    "img": "topo-hoja-dorado.jpeg",
+    "tags": [
+      "dorado"
+    ]
+  },
+  {
+    "title": "TOPO MARIPOSA",
+    "price": "7000",
+    "description": "",
+    "sku": "SKU-TOPO-MARIPOS",
+    "img": "topo-mariposa.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOPO PERLA BORDE DORADO",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-TOPO-PERLA-B",
+    "img": "topo-perla-borde-dorado.jpeg",
+    "tags": [
+      "perlas",
+      "dorado"
+    ]
+  },
+  {
+    "title": "TOPO PERLADO",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-TOPO-PERLADO",
+    "img": "topo-perlado.jpeg",
+    "tags": [
+      "perlas"
+    ]
+  },
+  {
+    "title": "TOPOS CORAZON BRILLANT",
+    "price": "18000",
+    "description": "",
+    "sku": "SKU-TOPOS-CORAZO",
+    "img": "topos-corazon-brillant.jpeg",
+    "tags": [
+      "corazon"
+    ]
+  },
+  {
+    "title": "TOPOS DORADOS PERLAS ELEGANT",
+    "price": "15000",
+    "description": "",
+    "sku": "SKU-TOPOS-DORADO",
+    "img": "topos-dorados-perlas-elegant.jpeg",
+    "tags": [
+      "perlas",
+      "dorado"
+    ]
+  },
+  {
+    "title": "TOPOS FLOR DORADOS",
+    "price": "7000",
+    "description": "",
+    "sku": "SKU-TOPOS-FLOR-D",
+    "img": "topos-flor-dorados.jpeg",
+    "tags": [
+      "flor",
+      "dorado"
+    ]
+  },
+  {
+    "title": "TOPOS GEOMETRICOS PERLAS",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-TOPOS-GEOMET",
+    "img": "topos-geometricos-perlas.jpeg",
+    "tags": [
+      "perlas"
+    ]
+  },
+  {
+    "title": "TOPOS GOTAS",
+    "price": "8000",
+    "description": "C/U",
+    "sku": "SKU-TOPOS-GOTAS",
+    "img": "topos-gotas.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOPOS TREBOL BLANCO RODIO",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-TOPOS-TREBOL",
+    "img": "topos-trebol-blanco-rodio.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOPOS TREBOL BLANCO",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-TOPOS-TREBOL",
+    "img": "topos-trebol-blanco.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOPOS TREBOL NEGRO RODIO",
+    "price": "10000",
+    "description": "",
+    "sku": "SKU-TOPOS-TREBOL",
+    "img": "topos-trebol-negro-rodio.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOPOS TREBOL ROSA NACARADO",
+    "price": "8000",
+    "description": "",
+    "sku": "SKU-TOPOS-TREBOL",
+    "img": "topos-trebol-rosa-nacarado.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "title": "TOPOS VARIADOS",
+    "price": "7000",
+    "description": "C/U",
+    "sku": "SKU-TOPOS-VARIAD",
+    "img": "topos-variados.jpeg",
+    "tags": [
+      "nuevo"
+    ]
+  }
+]
