@@ -210,7 +210,7 @@
   },
   {
     "title": "Aretes Candongas Balines 3 Colores Rodinada",
-    "price": "$ —",
+    "price": "$ 16000",
     "description": "",
     "sku": "SKU-ARETES-CANDO",
     "img": "aretes-candongas-balines-3-colores-rodinada_.jpg",
@@ -334,7 +334,7 @@
   },
   {
     "title": "Aretes Candongas Piedras Multicolores 2",
-    "price": "$ —",
+    "price": "$ 20000",
     "description": "",
     "sku": "SKU-ARETES-CANDO",
     "img": "aretes-candongas-piedras-multicolores-2.jpeg",
@@ -897,8 +897,7 @@
     "sku": "SKU-SET-X2-BRAZA",
     "img": "set-x2-brazalete-y-anillo.jpeg",
     "tags": [
-      "anillos",
-      "pulseras",
+      
       "sets"
     ]
   },
@@ -909,8 +908,7 @@
     "sku": "SKU-SET-X2-COLLA",
     "img": "set-x2-collar-y-pulsera-trenzada-dorada.jpeg",
     "tags": [
-      "pulseras",
-      "collares",
+      
       "sets"
     ]
   },
@@ -1078,7 +1076,7 @@
   },
   {
     "title": "SET X4 DORADO ELEGANTE FLOR",
-    "price": "30000",
+    "price": "35000",
     "description": "",
     "sku": "SKU-SET-X4-DORAD",
     "img": "set-x4-dorado-elegante-flor.jpeg",
