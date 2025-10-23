@@ -1,6 +1,12 @@
 
 const grid = document.querySelector('.catalogo');
 const searchInput = document.getElementById('searchInput');
+const productCountEl = document.getElementById('productCount');
+
+function updateCounter() {
+  const visibleCards = document.querySelectorAll('.card:not([style*="display: none"])');
+  productCountEl.textContent = visibleCards.length;
+}
 
 function createCard(p){
   const tags = (p.tags||[]).join(',');
@@ -35,6 +41,7 @@ function render(list){
       openLightbox(img.src, card.querySelector('.title').textContent);
     });
   });
+  updateCounter();
 }
 render(PRODUCTS);
 
@@ -49,6 +56,7 @@ filterBtns.forEach(btn => {
       const tags = (c.dataset.tags || '');
       c.style.display = (f === 'all' || tags.includes(f)) ? '' : 'none';
     });
+    updateCounter();
   });
 });
 
@@ -60,6 +68,7 @@ if (searchInput) {
       const hay = (c.dataset.title || '') + ' ' + (c.dataset.sku || '');
       c.style.display = hay.includes(q) ? '' : 'none';
     });
+    updateCounter();
   });
 }
 

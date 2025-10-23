@@ -17,7 +17,10 @@ html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:s
 .filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px}
 .filter-btn{background:#fff;border:1px solid var(--border);padding:8px 12px;border-radius:24px;cursor:pointer}
 .filter-btn.active,.filter-btn:hover{border-color:var(--brand);color:var(--brand)}
+.search-row{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
 .search input{width:100%;max-width:380px;padding:10px 12px;border:1px solid var(--border);border-radius:10px}
+.product-counter{padding:8px 16px;background:#fff;border:1px solid var(--border);border-radius:10px;color:var(--muted);font-size:14px;white-space:nowrap}
+.product-counter #productCount{font-weight:700;color:var(--brand);font-size:18px}
 .catalogo{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:18px;padding:24px 0 42px}
 .card{border:1px solid var(--border);border-radius:16px;overflow:hidden;background:#fff;display:flex;flex-direction:column;transition:transform .12s ease,box-shadow .12s ease}
 .card:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(0,0,0,.07)}

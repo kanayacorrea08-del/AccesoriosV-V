@@ -392,6 +392,17 @@
     ]
   },
   {
+    "title": "ARETES MINI CANDONGAS PERLAS",
+    "price": "16000",
+    "description": "",
+    "sku": "SKU-ARETES-MINI-",
+    "img": "aretes-mini-candongas-perlas.jpeg",
+    "tags": [
+      "aretes",
+      "perlas"
+    ]
+  },
+  {
     "title": "ARETES NEGROS CON BORLA METALICA",
     "price": "12000",
     "description": "",
@@ -430,6 +441,17 @@
     "img": "aretes-tipo-candongas-dorada-rodio.jpeg",
     "tags": [
       "aretes"
+    ]
+  },
+  {
+    "title": "COLLAR CINCO TREBOL NEGRO Y DORADO",
+    "price": "18000",
+    "description": "",
+    "sku": "SKU-COLLAR-CINCO",
+    "img": "collar-cinco-trebol-negro-y-dorado.jpeg",
+    "tags": [
+      "collares",
+      "dorado"
     ]
   },
   {
@@ -547,6 +569,16 @@
     "description": "",
     "sku": "SKU-COLLAR-TRES-",
     "img": "collar-tres-en-uno.jpeg",
+    "tags": [
+      "collares"
+    ]
+  },
+  {
+    "title": "COLLAR UN TREBOL BLANCO",
+    "price": "16000",
+    "description": "",
+    "sku": "SKU-COLLAR-UN-TR",
+    "img": "collar-un-trebol-blanco.jpeg",
     "tags": [
       "collares"
     ]
@@ -738,6 +770,16 @@
     ]
   },
   {
+    "title": "PULSERA ESTILO PANDORA PINK",
+    "price": "27000",
+    "description": "",
+    "sku": "SKU-PULSERA-ESTI",
+    "img": "pulsera-estilo-pandora-pink.jpeg",
+    "tags": [
+      "pulseras"
+    ]
+  },
+  {
     "title": "PULSERA FLORES ELEGANT",
     "price": "14000",
     "description": "",
@@ -890,7 +932,7 @@
     "sku": "SKU-SET-X2-BRAZA",
     "img": "set-x2-brazalete-y-anillo.jpeg",
     "tags": [
-      
+      "pulseras",
       "sets"
     ]
   },
@@ -901,7 +943,8 @@
     "sku": "SKU-SET-X2-COLLA",
     "img": "set-x2-collar-y-pulsera-trenzada-dorada.jpeg",
     "tags": [
-      
+      "pulseras",
+      "collares",
       "sets"
     ]
   },
@@ -1128,6 +1171,7 @@
     "sku": "SKU-TOBILLERA-CO",
     "img": "tobillera-corazon.jpeg",
     "tags": [
+      "tobilleras",
       "corazon"
     ]
   },
@@ -1138,7 +1182,7 @@
     "sku": "SKU-TOBILLERA-CU",
     "img": "tobillera-cubana-rodio.jpeg",
     "tags": [
-      "nuevo"
+      "tobilleras"
     ]
   },
   {
@@ -1148,7 +1192,7 @@
     "sku": "SKU-TOBILLERA-DI",
     "img": "tobillera-dije-pina.jpeg",
     "tags": [
-      "nuevo"
+      "tobilleras"
     ]
   },
   {
@@ -1158,7 +1202,7 @@
     "sku": "SKU-TOBILLERA-ES",
     "img": "tobillera-estrellas.jpeg",
     "tags": [
-      "nuevo"
+      "tobilleras"
     ]
   },
   {
@@ -1168,6 +1212,7 @@
     "sku": "SKU-TOBILLERA-IN",
     "img": "tobillera-infinito-y-perlas.jpeg",
     "tags": [
+      "tobilleras",
       "perlas"
     ]
   },
@@ -1178,7 +1223,7 @@
     "sku": "SKU-TOBILLERA-MA",
     "img": "tobillera-mariposa.jpeg",
     "tags": [
-      "nuevo"
+      "tobilleras"
     ]
   },
   {
@@ -1188,7 +1233,7 @@
     "sku": "SKU-TOBILLERA-MA",
     "img": "tobillera-mariposas.jpeg",
     "tags": [
-      "nuevo"
+      "tobilleras"
     ]
   },
   {
@@ -1198,7 +1243,7 @@
     "sku": "SKU-TOBILLERA-PI",
     "img": "tobillera-piedras-rosas-rodio.jpeg",
     "tags": [
-      "nuevo"
+      "tobilleras"
     ]
   },
   {
@@ -1208,7 +1253,7 @@
     "sku": "SKU-TOBILLERA-TR",
     "img": "tobillera-trebol-rodio.jpeg",
     "tags": [
-      "nuevo"
+      "tobilleras"
     ]
   },
   {
@@ -1218,7 +1263,7 @@
     "sku": "SKU-TOBILLERAS-V",
     "img": "tobilleras-variadas.jpeg",
     "tags": [
-      "nuevo"
+      "tobilleras"
     ]
   },
   {
@@ -1228,6 +1273,7 @@
     "sku": "SKU-TOPO-BALIN-D",
     "img": "topo-balin-dorado.jpeg",
     "tags": [
+      "topos",
       "dorado"
     ]
   },
@@ -1238,6 +1284,7 @@
     "sku": "SKU-TOPO-BLANCO-",
     "img": "topo-blanco-perla.jpeg",
     "tags": [
+      "topos",
       "perlas"
     ]
   },
@@ -1248,7 +1295,7 @@
     "sku": "SKU-TOPO-CRISTAL",
     "img": "topo-cristal.jpeg",
     "tags": [
-      "nuevo"
+      "topos"
     ]
   },
   {
@@ -1258,6 +1305,7 @@
     "sku": "SKU-TOPO-FLOR-EL",
     "img": "topo-flor-elegant.jpeg",
     "tags": [
+      "topos",
       "flor"
     ]
   },
@@ -1268,6 +1316,7 @@
     "sku": "SKU-TOPO-FLOR-PE",
     "img": "topo-flor-pequena.jpeg",
     "tags": [
+      "topos",
       "flor"
     ]
   },
@@ -1278,6 +1327,7 @@
     "sku": "SKU-TOPO-FLOR-PE",
     "img": "topo-flor-perlas.jpeg",
     "tags": [
+      "topos",
       "flor",
       "perlas"
     ]
@@ -1289,6 +1339,7 @@
     "sku": "SKU-TOPO-FLOR",
     "img": "topo-flor.jpeg",
     "tags": [
+      "topos",
       "flor"
     ]
   },
@@ -1299,7 +1350,7 @@
     "sku": "SKU-TOPO-GEOMETR",
     "img": "topo-geometrico.jpeg",
     "tags": [
-      "nuevo"
+      "topos"
     ]
   },
   {
@@ -1309,6 +1360,7 @@
     "sku": "SKU-TOPO-HOJA-DO",
     "img": "topo-hoja-dorado.jpeg",
     "tags": [
+      "topos",
       "dorado"
     ]
   },
@@ -1319,7 +1371,7 @@
     "sku": "SKU-TOPO-MARIPOS",
     "img": "topo-mariposa.jpeg",
     "tags": [
-      "nuevo"
+      "topos"
     ]
   },
   {
@@ -1329,6 +1381,7 @@
     "sku": "SKU-TOPO-PERLA-B",
     "img": "topo-perla-borde-dorado.jpeg",
     "tags": [
+      "topos",
       "perlas",
       "dorado"
     ]
@@ -1340,6 +1393,7 @@
     "sku": "SKU-TOPO-PERLADO",
     "img": "topo-perlado.jpeg",
     "tags": [
+      "topos",
       "perlas"
     ]
   },
@@ -1350,6 +1404,7 @@
     "sku": "SKU-TOPOS-CORAZO",
     "img": "topos-corazon-brillant.jpeg",
     "tags": [
+      "topos",
       "corazon"
     ]
   },
@@ -1360,6 +1415,7 @@
     "sku": "SKU-TOPOS-DORADO",
     "img": "topos-dorados-perlas-elegant.jpeg",
     "tags": [
+      "topos",
       "perlas",
       "dorado"
     ]
@@ -1371,6 +1427,7 @@
     "sku": "SKU-TOPOS-FLOR-D",
     "img": "topos-flor-dorados.jpeg",
     "tags": [
+      "topos",
       "flor",
       "dorado"
     ]
@@ -1382,6 +1439,7 @@
     "sku": "SKU-TOPOS-GEOMET",
     "img": "topos-geometricos-perlas.jpeg",
     "tags": [
+      "topos",
       "perlas"
     ]
   },
@@ -1392,7 +1450,7 @@
     "sku": "SKU-TOPOS-GOTAS",
     "img": "topos-gotas.jpeg",
     "tags": [
-      "nuevo"
+      "topos"
     ]
   },
   {
@@ -1402,7 +1460,7 @@
     "sku": "SKU-TOPOS-TREBOL",
     "img": "topos-trebol-blanco-rodio.jpeg",
     "tags": [
-      "nuevo"
+      "topos"
     ]
   },
   {
@@ -1412,7 +1470,7 @@
     "sku": "SKU-TOPOS-TREBOL",
     "img": "topos-trebol-blanco.jpeg",
     "tags": [
-      "nuevo"
+      "topos"
     ]
   },
   {
@@ -1422,7 +1480,7 @@
     "sku": "SKU-TOPOS-TREBOL",
     "img": "topos-trebol-negro-rodio.jpeg",
     "tags": [
-      "nuevo"
+      "topos"
     ]
   },
   {
@@ -1432,7 +1490,7 @@
     "sku": "SKU-TOPOS-TREBOL",
     "img": "topos-trebol-rosa-nacarado.jpeg",
     "tags": [
-      "nuevo"
+      "topos"
     ]
   },
   {
@@ -1442,7 +1500,7 @@
     "sku": "SKU-TOPOS-VARIAD",
     "img": "topos-variados.jpeg",
     "tags": [
-      "nuevo"
+      "topos"
     ]
   }
 ]
