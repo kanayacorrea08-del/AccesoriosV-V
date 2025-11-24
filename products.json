@@ -938,7 +938,7 @@
   },
   {
     "title": "SET X2 COLLAR Y PULSERA TRENZADA DORADA",
-    "price": "30000",
+    "price": "35000",
     "description": "",
     "sku": "SKU-SET-X2-COLLA",
     "img": "set-x2-collar-y-pulsera-trenzada-dorada.jpeg",
@@ -1501,6 +1501,17 @@
     "img": "topos-variados.jpeg",
     "tags": [
       "topos"
+    ]
+  },
+  {
+    "title": "SET X3 CRUZ",
+    "price": "28000",
+    "description": "COLLAR, PULSERA Y ANILLO",
+    "sku": "SKU-SET-X3-CRUZ",
+    "img": "set-x3-cruz.jpeg",
+    "tags": [
+      "sets",
+      "cruz"
     ]
   }
 ]
